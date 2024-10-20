@@ -1,6 +1,3 @@
----
-permalink: /test.html
----
 <!doctype html>
 <html lang="ru">
 
